@@ -3,7 +3,7 @@ using System.Collections.Generic;
 namespace singly_linked_lists {
     class Program {
         static void Main (string[] args) {
-            Console.WriteLine ("Hello World!");
+            Console.WriteLine ("Singly Linked Lists");
             SinglyLinkedList ssl = new SinglyLinkedList ();
             ssl.AddToBack (5);
             ssl.AddToBack (6);
